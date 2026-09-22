@@ -22,12 +22,12 @@ Here are some ideas to get you started:
 - Software Developer @ Codebox
 
 💻 TECH STACK
-Languages: Java, Python, C, C++
-Data Science: Pandas, NumPy, scikit-learn, TensorFlow
-Web Dev: HTML, CSS, JavaScript
-Tools: Jupyter Notebooks, Google Colab, Git, GitHub
-AWS: Bedrock, Lambda, IAM, Eventbridge, Bedrock, S3
+- Languages: Java, Python, C, C++
+- Data Science: Pandas, NumPy, scikit-learn, TensorFlow
+- Web Dev: HTML, CSS, JavaScript
+- Tools: Jupyter Notebooks, Google Colab, Git, GitHub
+- AWS: Bedrock, Lambda, IAM, Eventbridge, Bedrock, S3
 
 📫 CONTACT ME
-email: modi.sanchita@gmail.com
-linkedin: linkedin.com/in/sanchitamodi
+- email: modi.sanchita@gmail.com
+- linkedin: linkedin.com/in/sanchitamodi
