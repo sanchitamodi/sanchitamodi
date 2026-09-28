@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 ABOUT ME 
+🔭 ABOUT
 - 3rd year Software Engineering major @ Cal Poly SLO
 - AI/ML Fellow @ Break Through Tech
 - Tech Lead @ Hack4Impact Cal Poly
@@ -28,6 +28,6 @@ Here are some ideas to get you started:
 - Tools: Jupyter Notebooks, Google Colab, Git, GitHub
 - AWS: Bedrock, Lambda, IAM, Eventbridge, Bedrock, S3
 
-📫 CONTACT ME
+📫 CONTACT
 - email: modi.sanchita@gmail.com
 - linkedin: linkedin.com/in/sanchitamodi
