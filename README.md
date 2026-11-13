@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - Tools: Jupyter Notebooks, Google Colab, Git, GitHub
 - AWS: Bedrock, Lambda, IAM, Eventbridge, Bedrock, S3
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanchitamodi&show_icons=true&theme=github_dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=sanchitamodi&theme=github-dark&hide_border=true)
 
 📫 CONTACT
 - email: modi.sanchita@gmail.com
