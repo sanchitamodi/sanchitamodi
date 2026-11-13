@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 - Web Dev: HTML, CSS, JavaScript
 - Tools: Jupyter Notebooks, Google Colab, Git, GitHub
 - AWS: Bedrock, Lambda, IAM, Eventbridge, Bedrock, S3
+![Sanchita's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanchitamodi&show_icons=true&theme=transparent)
 
 📫 CONTACT
 - email: modi.sanchita@gmail.com
