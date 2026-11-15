@@ -16,15 +16,19 @@ Here are some ideas to get you started:
 -->
 
 🔭 ABOUT
+
 Education
 - 3rd year Software Engineering major @ Cal Poly SLO
 
 Involvement
 - AI/ML Fellow @ Break Through Tech (AI Studio Project @ Amazon)
+  
        • Build a leakage-safe early-warning churn-detection pipeline using public e-commerce data to identify high-risk customers and enable proactive retention efforts.
 - Tech Lead @ Hack4Impact Cal Poly
+  
        • Upgrade the organization's management platform from a spreadsheet to a more organized dashboard with automated email reminders and volunteer sign-ups, significantly reducing daily manual labor for the team.
 - Software Engineer @ Codebox
+  
        • Develop an operations platform that centralizes documents, events, tasks, role-based access, and leadership handoffs to streamline Cal Poly club processes by combining necessary features in one platform.
 
 ### 💻 TECH STACK
