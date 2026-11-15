@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 
 📫 CONTACT
 - email: modi.sanchita@gmail.com
-- linkedin: [https://linkedin.com/in/sanchitamodi/](url)
+- linkedin: [View LinkedIn Profile](https://linkedin.com/in/sanchitamodi/)
