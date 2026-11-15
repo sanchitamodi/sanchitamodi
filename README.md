@@ -21,15 +21,15 @@ Here are some ideas to get you started:
 - Tech Lead @ Hack4Impact Cal Poly
 - Software Developer @ Codebox
 
-💻 TECH STACK
-- Languages: Java, Python, C, C++
-- Data Science: Pandas, NumPy, scikit-learn, TensorFlow
-- Web Dev: HTML, CSS, JavaScript
-- Tools: Jupyter Notebooks, Google Colab, Git, GitHub
-- AWS: Bedrock, Lambda, IAM, Eventbridge, Bedrock, S3
+### 💻 TECH STACK
+- **Languages:** Python, Java, C, C++, TypeScript, JavaScript, HTML/CSS
+- **Frameworks & Data Science:** React, Next.js, Node.js, Gemini API, Microsoft Graph API, ElevenLabs, MoviePy, LLM applications, RAG, agentic workflows, scikit-learn, pandas, NumPy, Matplotlib, Seaborn
+- **Web and Databases:** MongoDB Atlas, Mongoose, Supabase
+- **Cloud & AWS:** AWS Lambda, S3, EventBridge
+- **Developer Tools:** Git/GitHub, Vercel, GitHub Actions, Vitest
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=sanchitamodi&theme=github-dark&hide_border=true)
 
 📫 CONTACT
-- email: modi.sanchita@gmail.com
-- linkedin: [View LinkedIn Profile](https://linkedin.com/in/sanchitamodi/)
+- Email: modi.sanchita@gmail.com
+- LinkedIn: [View LinkedIn Profile](https://linkedin.com/in/sanchitamodi/)
