@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 ABOUT
+### 🔭 ABOUT
 
 Education
 - 3rd year Software Engineering major @ Cal Poly SLO
@@ -37,6 +37,6 @@ Involvement
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=sanchitamodi&theme=github-dark&hide_border=true)
 
-📫 CONTACT
+### 📫 CONTACT
 - Email: modi.sanchita@gmail.com
 - LinkedIn: [View LinkedIn Profile](https://linkedin.com/in/sanchitamodi/)
